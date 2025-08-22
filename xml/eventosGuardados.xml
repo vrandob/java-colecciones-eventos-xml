@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventos>
+    <evento nombre="Jornada 5">
+        <resultado participante="Marta">1</resultado>
+        <resultado participante="Jorge">1</resultado>
+    </evento>
+</eventos>

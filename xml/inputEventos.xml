@@ -1,0 +1,19 @@
+<eventos>
+  <evento nombre="Jornada 1">
+    <resultado participante="Ana">3</resultado>
+    <resultado participante="Luis">1</resultado>
+  </evento>
+  <evento nombre="Jornada 2">
+    <resultado participante="Clara">2</resultado>
+    <resultado participante="Luis">2</resultado>
+  </evento>
+  <evento nombre="Jornada 3">
+    <resultado participante="Pedro">0</resultado>
+    <resultado participante="Marco">4</resultado>
+  </evento>
+  <evento nombre="Jornada 4">
+    <resultado participante="Irene">3</resultado>
+    <resultado participante="Aitana">2</resultado>
+  </evento>
+
+</eventos>

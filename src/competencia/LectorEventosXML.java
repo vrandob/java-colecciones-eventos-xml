@@ -52,5 +52,3 @@ public class LectorEventosXML {
     return listaEventos;
   }
 }
-
-// Y para usarlo en el main:  List<Evento> eventos = LectorEventosXML.leerEventos();
